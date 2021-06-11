@@ -1,5 +1,5 @@
 ---
-title: How to Set Team Goals The Right Way
+title: Hello World
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
