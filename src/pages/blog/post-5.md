@@ -1,8 +1,6 @@
 ---
 title: Hello World
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: What are the XB0 and XG1 tokens and why you should care
 date: '2021-05-22'
 author: src/data/team/brandon-guidelines.yaml
 categories:
