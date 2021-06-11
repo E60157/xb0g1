@@ -9,10 +9,7 @@ categories:
   - src/data/categories/tips.yaml
 tags:
   - src/data/tags/productivity.yaml
-excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+excerpt: What are XB0 and XG1 tokens and why you should care
 thumb_image: images/post-5.jpg
 thumb_image_alt: Post 5 placeholder image
 image: images/post-5.jpg
