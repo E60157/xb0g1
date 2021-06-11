@@ -3,7 +3,7 @@ title: How to Set Team Goals The Right Way
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
-date: '2021-02-02'
+date: '2021-05-22'
 author: src/data/team/brandon-guidelines.yaml
 categories:
   - src/data/categories/tips.yaml
