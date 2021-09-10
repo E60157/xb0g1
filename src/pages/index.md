@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Deal with your problem by becoming rich!
+    title: Deal with your Problem by Becoming Rich!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
