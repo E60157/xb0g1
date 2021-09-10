@@ -43,9 +43,10 @@ sections:
     features:
       - title: Your girlfriend broke up with you/you broke up with your girlfriend
         content: >
-          Then buy XG1. If the price of XG1 rises above the price of XB0, it
-          means they are girls leaving more. Are you a girl or do you identify
-          as one and have left another girl? Buy twice as many.
+          Then buy **XG1**. If the price of **XG1** rises above the price of
+          *XB0*, it means they **are girls who broke up more then guys**. Are
+          you a girl or do you identify as one and have left another girl? Buy
+          twice as many.
         actions:
           - label: BUY XG1
             url: /thank-you
