@@ -47,7 +47,7 @@ sections:
           means they are girls leaving more. Are you a girl or do you identify
           as one and have left another girl? Buy twice as many.
         actions:
-          - label: Learn More
+          - label: BUY XG1
             url: /thank-you
             style: link
             has_icon: true
