@@ -65,7 +65,7 @@ sections:
           you a boy or do you identify as one and have left another boy? Buy
           twice as many.
         actions:
-          - label: Learn More
+          - label: BUY XB0
             url: /thank-you
             style: link
             has_icon: true
