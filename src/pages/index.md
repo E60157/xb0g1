@@ -42,9 +42,10 @@ sections:
     title: Why Should I Buy XB0/XG1?
     features:
       - title: Your girlfriend broke up with you/you broke up with your girlfriend
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          Then buy XG1. If the price of XG1 rises above the price of XB0, it
+          means they are girls leaving more. Are you a girl or do you identify
+          as one and have left another girl? Buy twice as many.
         actions:
           - label: Learn More
             url: /thank-you
