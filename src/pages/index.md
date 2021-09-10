@@ -39,7 +39,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Why Should I Buy XB0/XG1?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
