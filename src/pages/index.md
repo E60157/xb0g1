@@ -41,7 +41,7 @@ sections:
   - type: features_section
     title: Why Should I Buy XB0/XG1?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Your Girlfriend left you/you brokeup with your girlfriend
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
