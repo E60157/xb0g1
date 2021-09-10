@@ -59,10 +59,11 @@ sections:
         media_position: right
         media_width: sixty
       - title: Your boyfriend broke up with you/you broke up with your boyfriend
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          Then buy **XB0**. If the price of **XB0** rises above the price of
+          *XG1*, it means they **are guys who broke up more then girls**. Are
+          you a boy or do you identify as one and have left another boy? Buy
+          twice as many.
         actions:
           - label: Learn More
             url: /thank-you
