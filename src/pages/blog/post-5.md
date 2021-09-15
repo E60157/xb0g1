@@ -43,5 +43,6 @@ template: post
 ---
 So, this is not the classic project that you can find in the crypto-verse these days: it's not backed by big names and it doesn't have big capital to use. You may have already figured it out by looking at the website that this is just a homemade project made by someone who has been dealing with heartbreaks and thought of using cryptocurrencies to distract himself from things.
 
-
 # What are XB0 and XG1 Token and why you should care
+
+The idea behind these two tokens is simple: are boys or girls the ones who break the most hearts?
